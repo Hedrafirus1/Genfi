@@ -1,6 +1,4 @@
-# Project Title
-
-Genfi
+# Genfi
 
 ## Description
 
